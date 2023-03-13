@@ -26,14 +26,4 @@ Bridge is a web based video conferencing application which bridges the gap betwe
 
 ![modes](https://user-images.githubusercontent.com/51206050/125435574-63a2507d-f41b-4c68-9a23-343f5b31dd7c.png)
 
-## Project Link
-https://bridgevideochat.herokuapp.com/
 
-## Project Video
-https://youtu.be/Z-1__7TO2js
-
-## Project PPT
-https://www.behance.net/gallery/123551417/Bridge-Video-Conferencing-Website
-
-## Contact
-In case of any suggestions or enquires, feel free to reach out to the contributors.
